@@ -82,7 +82,7 @@ function App() {
                 desc: "Hidden beach with dramatic cliffs and pristine waters"
               },
               {
-                image: "https://images.unsplash.com/photo-1583243552820-8f4f6a3b5929?ixlib=rb-4.0.3",
+                image: "https://live.staticflickr.com/65535/52927082492_07141b8fcf_b.jpg",
                 title: "Sintra Forest",
                 desc: "Ancient woodland trails for contemplative walks"
               }
